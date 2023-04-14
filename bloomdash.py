@@ -4,7 +4,6 @@
 
 ## standard imports
 import pandas as pd
-import numpy as np
 import yfinance as yf
 import yahoo_fin.stock_info as si
 from datetime import date, timedelta
