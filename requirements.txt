@@ -2,7 +2,7 @@ dash==2.8.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-pandas==1.5.3
+pandas
 pandas-datareader==0.10.0
 yahoo-fin==0.8.9.1
 yfinance==0.1.85
