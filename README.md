@@ -3,6 +3,8 @@ An interactive dash app for financial analysis:
 
 https://bloom-dash-app.onrender.com
 
+*Note that the app may take a little time to render...*
+
 ## Features 
 
 The dash app enables the user to:
