@@ -8,7 +8,7 @@ The dash app enables the user to:
 * See a donut chart breakdown of their created porfolio. 
 * Get the latest treasury rates and closing prices of their chosen stocks. 
 
-Furthermore, the app then allows the user to *analyse* their portfolio: 
+Furthermore, the app then allows the user to **analyse** their portfolio: 
 * Plotting the normalized closing price of their portfolio alongside the S&P500 index benchmark. 
   * The app then provides the returns % along with the performance multiplier. 
 * Plotting the daily returns of the portfolio against the benchmark, and extracing the alpha and beta for the portfolio. 
