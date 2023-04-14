@@ -13,7 +13,6 @@ from statsmodels import regression
 import statsmodels.api as sm
 
 ## plotting imports
-import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 import plotly.express as px
 
