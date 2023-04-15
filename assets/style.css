@@ -65,7 +65,7 @@
     background-color: #1a3146;
     /* optional rgb(71, 95, 112)*/
     padding: 10px;
-    height: 475px;
+    height: 500px;
     border-radius: 25px;
     border: 2px solid rgb(71, 95, 112);
   }
@@ -75,7 +75,7 @@
     background-color: rgb(71, 95, 112);
     color : #e45c01;
     padding: 10px;
-    height: 475px;
+    height: 500px;
     border-radius: 25px;
   }
 
